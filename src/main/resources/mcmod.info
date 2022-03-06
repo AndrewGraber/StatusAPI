@@ -1,0 +1,16 @@
+[
+{
+  "modid": "statusapi",
+  "name": "Status API",
+  "description": "Allows outside sources to gain information about a server",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AnZaNaMa"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
